@@ -34,3 +34,5 @@ Actualmente el LMS se encuentra así:
 ![20180316_144057](https://user-images.githubusercontent.com/32303418/37545923-a762c030-2938-11e8-96ba-9252d905dc68.jpg)
 
 #### Affinity Map de las Entrevistas
+
+![affinity map](https://user-images.githubusercontent.com/32303418/37548989-15d51fac-294a-11e8-8ffe-5f6d06e1614d.jpg)
