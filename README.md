@@ -4,7 +4,6 @@ imagen
 
 ![principal](https://user-images.githubusercontent.com/32303418/37801363-640a37ee-2df4-11e8-85f6-8579e045c6a5.jpg)
 
-
 ## Desarrollado para
  [Laboratoria](http://laboratoria.la)
 
