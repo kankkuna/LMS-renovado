@@ -111,6 +111,12 @@ En una primera versión se testea con prototipo realizado en Figma a 5 personas 
 
 ![home](https://user-images.githubusercontent.com/32303418/37801354-5238e4f2-2df4-11e8-9e29-bc7cd1114f0b.jpg)
 
-#### Segunda propuesta en Desarrollo
+##### DEBRIEFING
+
+Cuál será el siguiente paso:
+
+_a.¿Mejorar el prototipo para hacer nuevas pruebas?_
+
+_b.¿Crear un nuevo prototipo?_
 
 ![desktop1](https://user-images.githubusercontent.com/32303418/38338243-548c1d02-382e-11e8-8015-e2ef12659a59.jpg)
