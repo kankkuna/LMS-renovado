@@ -95,8 +95,23 @@ Donde resaltan y coinciden en:
 ![screencapture-iversity-org-en-courses-prototyping-interaction-february-2016-2018-03-19-03_21_06 1](https://user-images.githubusercontent.com/32303418/37802151-38fc7adc-2df7-11e8-81d6-5f6ea1878f3a.png)
 ![screencapture-iversity-org-en-courses-prototyping-interaction-february-2016-2018-03-19-03_21_06](https://user-images.githubusercontent.com/32303418/37802152-392aaf24-2df7-11e8-969b-75030fec9957.png)
 
+#### Testing
+
+En una primera versión se testea con prototipo realizado en Figma a 5 personas de las cuales obtuve las siguientes apreciaciones:
+
+1. Los colores son muy fuertes combinados
+2. Sería importante la disposición de las herramientas
+3. "Veo demasiadas opciones que me distraen"
+4. El perfil no es muy reconocible
+5.
+
+
 #### Del Prototipo Final
 
-https://marvelapp.com/649b21d/screen/40127949
+[Mira el prototipo en Marvel aquí](https://marvelapp.com/649b21d/screen/40127949)
 
 ![home](https://user-images.githubusercontent.com/32303418/37801354-5238e4f2-2df4-11e8-9e29-bc7cd1114f0b.jpg)
+
+#### Segunda propuesta en Desarrollo
+
+![desktop1](https://user-images.githubusercontent.com/32303418/38338243-548c1d02-382e-11e8-8015-e2ef12659a59.jpg)
