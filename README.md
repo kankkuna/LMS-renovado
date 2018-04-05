@@ -1,8 +1,8 @@
-# LMS Rediseño
+# LMS - Propuesta de Mejora
 El objetivo es generar una propuesta de valor para un producto que no satisface las necesidades de los usuarios(estudiantes de Laboratoria) la cual es utilizado a nivel educativo y de soporte durante el bootcamp.
 imagen
 
-![principal](https://user-images.githubusercontent.com/32303418/37801363-640a37ee-2df4-11e8-85f6-8579e045c6a5.jpg)
+![smartmockups_jfmvvy6d](https://user-images.githubusercontent.com/32303418/38386176-7601776a-38d9-11e8-9dd9-d72eefbb77a1.jpeg)
 
 ## Desarrollado para
  [Laboratoria](http://laboratoria.la)
